@@ -102,7 +102,7 @@ struct GoodsList {
 
             }
             .backgroundColor(Color.White)
-            .margin({left: 15, right: 15})
+            .margin({left: 15, right: 15, bottom: 10})
             .padding(10)
             .borderRadius(5)
             .onTouch((event: TouchEvent) => {

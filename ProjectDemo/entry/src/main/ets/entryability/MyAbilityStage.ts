@@ -10,7 +10,7 @@ export default class MyAbilityStage extends AbilityStage {
       close: false,
       isHilog: true,
       showLogLocation: true,
-      logSize: 800
+      logSize: 1024
     });
   }
 }
