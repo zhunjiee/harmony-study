@@ -1,0 +1,12 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/home/DetailPage",
+    "pages/home/RelativeContainerPage",
+    "pages/home/StackPage",
+    "pages/home/GridRowPage",
+    "pages/home/MediaQueryPage",
+    "pages/home/ListPage",
+    "pages/home/BuilderParamPage"
+  ]
+}

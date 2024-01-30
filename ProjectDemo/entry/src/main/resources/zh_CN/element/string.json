@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "confirm_title",
+      "value": "确定"
+    },
+    {
+      "name": "cancel_title",
+      "value": "取消"
+    },
+    {
+      "name": "alert_dialog_message",
+      "value": "当前数据未保存，是否离开？"
+    }
+  ]
+}
